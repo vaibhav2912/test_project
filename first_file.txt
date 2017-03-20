@@ -1,2 +1,3 @@
 My first document is now changed in new branch.
 This is the change made in local master
+This is a new line to fetch.
