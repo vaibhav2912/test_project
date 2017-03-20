@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-My first document is changed
-=======
 My first document is now changed in new branch.
->>>>>>> new_branch
+
