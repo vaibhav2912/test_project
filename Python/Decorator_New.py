@@ -17,4 +17,5 @@ def connect(website):
     print("Connecting to {}".format(website))
 
 
-hyperlink()
+if __name__ == "__main__":
+	hyperlink()
